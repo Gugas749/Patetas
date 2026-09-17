@@ -1,0 +1,17 @@
+{
+  "name": "DevAmethyst",
+  "version": "0.3.3",
+  "minecraftVersion": "1.21.1",
+  "loader": "neoforge",
+  "loaderVersion": "21.1.230",
+  "launchVersion": "neoforge-21.1.230",
+  "delete": [],
+  "blockedMods": [],
+  "files": [
+    {
+      "path": "servers.dat",
+      "url": "https://dev.cdn.amethystrealms.net/servers.dat",
+      "sha1": "400c36504279c1d193be07fecc1d867eaa2d1fb4"
+    }
+  ]
+}
