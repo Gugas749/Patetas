@@ -1,6 +1,6 @@
 {
   "name": "Patetas",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.249",
@@ -151,6 +151,11 @@
       "sha1": "6c2d786a161f49470dad92b2edaefdac38a1e79b"
     },
     {
+      "path": "mods/drippyloadingscreen_neoforge_3.1.2_MC_1.21.1.jar",
+      "url": "https://gugas749server.co.uk/mods/drippyloadingscreen_neoforge_3.1.2_MC_1.21.1.jar",
+      "sha1": "b47a59369a55f818cadd9e0eeb9352b4028a5e9b"
+    },
+    {
       "path": "mods/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
       "url": "https://gugas749server.co.uk/mods/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
       "sha1": "1228c7597c4b6cbaec10a090f9b5b471ca9042d4"
@@ -174,6 +179,11 @@
       "path": "mods/EuphoriaPatcher-1.10.5-r5.9.3-neoforge.jar",
       "url": "https://gugas749server.co.uk/mods/EuphoriaPatcher-1.10.5-r5.9.3-neoforge.jar",
       "sha1": "2b3f92878d6867fa0199937da25ba882b9db7902"
+    },
+    {
+      "path": "mods/fancymenu_neoforge_3.9.0_MC_1.21.1.jar",
+      "url": "https://gugas749server.co.uk/mods/fancymenu_neoforge_3.9.0_MC_1.21.1.jar",
+      "sha1": "700c03f95de48c0a6c41212978d751a387bf15fc"
     },
     {
       "path": "mods/FarmersDelight-1.21.1-1.3.4.jar",
@@ -269,6 +279,11 @@
       "path": "mods/lootintegrations_yungs-1.6.jar",
       "url": "https://gugas749server.co.uk/mods/lootintegrations_yungs-1.6.jar",
       "sha1": "a0a2a57cb89435048819be14666c2a9f8d956828"
+    },
+    {
+      "path": "mods/melody_neoforge_1.0.10_MC_1.21.jar",
+      "url": "https://gugas749server.co.uk/mods/melody_neoforge_1.0.10_MC_1.21.jar",
+      "sha1": "e83052a92c4ca0016bcfe7f0207273983dc84698"
     },
     {
       "path": "mods/MoogsNetherStructures-universal-1.21-3.1.1.jar",
@@ -504,6 +519,101 @@
       "path": "mods/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
       "url": "https://gugas749server.co.uk/mods/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
       "sha1": "bcab81f578b3cb31e599ae327c6634b9fa8d0f04"
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "url": "https://gugas749server.co.uk/config/fancymenu/customizablemenus.txt",
+      "sha1": "becf0506a11598157f55da3e7b70734308f7117d"
+    },
+    {
+      "path": "config/fancymenu/custom_gui_screens.txt",
+      "url": "https://gugas749server.co.uk/config/fancymenu/custom_gui_screens.txt",
+      "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c"
+    },
+    {
+      "path": "config/fancymenu/legacy_checklist.txt",
+      "url": "https://gugas749server.co.uk/config/fancymenu/legacy_checklist.txt",
+      "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e"
+    },
+    {
+      "path": "config/fancymenu/options.txt",
+      "url": "https://gugas749server.co.uk/config/fancymenu/options.txt",
+      "sha1": "fb6d8ebb695417b2ce9668309ae6fc20dfd8a0fa"
+    },
+    {
+      "path": "config/fancymenu/user_variables.db",
+      "url": "https://gugas749server.co.uk/config/fancymenu/user_variables.db",
+      "sha1": "b41f9d7688944b0d96eaa089a5a5bb74af28d258"
+    },
+    {
+      "path": "config/fancymenu/assets/background.jpeg",
+      "url": "https://gugas749server.co.uk/config/fancymenu/assets/background.jpeg",
+      "sha1": "437bac8529e44523edf79adbbada42adaef9311d"
+    },
+    {
+      "path": "config/fancymenu/assets/menu_music.wav",
+      "url": "https://gugas749server.co.uk/config/fancymenu/assets/menu_music.wav",
+      "sha1": "742c253b408c4b0214a560620ca7ebe6667c9b4a"
+    },
+    {
+      "path": "config/fancymenu/customization/drippy_loading_overlay_layout.txt",
+      "url": "https://gugas749server.co.uk/config/fancymenu/customization/drippy_loading_overlay_layout.txt",
+      "sha1": "09698454dc5b9ad8f38b87e8e197d5598f20be25"
+    },
+    {
+      "path": "config/fancymenu/customization/title_screen_layout.txt",
+      "url": "https://gugas749server.co.uk/config/fancymenu/customization/title_screen_layout.txt",
+      "sha1": "d3e7ae656b635f854dcfc95fc06d29fc5e27d2ee"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cherry_blossom.json",
+      "url": "https://gugas749server.co.uk/config/fancymenu/ui_themes/cherry_blossom.json",
+      "sha1": "9a453a566f041ddbc39e17918acdac90f6eaed38"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cozy_campfire.json",
+      "url": "https://gugas749server.co.uk/config/fancymenu/ui_themes/cozy_campfire.json",
+      "sha1": "e7fbd4e11f3e969d20d7c713e61fa6d6cedd077e"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark.json",
+      "url": "https://gugas749server.co.uk/config/fancymenu/ui_themes/dark.json",
+      "sha1": "b8793f498fc95000ab68a7d6b45d8575ad45d558"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
+      "url": "https://gugas749server.co.uk/config/fancymenu/ui_themes/dark_high_contrast.json",
+      "sha1": "9583fa877b286337557aae3429f91d66682091b7"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light.json",
+      "url": "https://gugas749server.co.uk/config/fancymenu/ui_themes/light.json",
+      "sha1": "5b9e9bc9d4d683584c919bcdae3b75581ae42f60"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light_high_contrast.json",
+      "url": "https://gugas749server.co.uk/config/fancymenu/ui_themes/light_high_contrast.json",
+      "sha1": "8a290f6e1a0bdf2be972878e1c134a0c31f4a069"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
+      "url": "https://gugas749server.co.uk/config/fancymenu/ui_themes/pumpkin_soup.json",
+      "sha1": "39c96a61bdeb936b151e38d0050b70abb78e3620"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/purple_void.json",
+      "url": "https://gugas749server.co.uk/config/fancymenu/ui_themes/purple_void.json",
+      "sha1": "9e38ca299adfe6ab2ad331c6adb80e26ff823da8"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/spooky_season.json",
+      "url": "https://gugas749server.co.uk/config/fancymenu/ui_themes/spooky_season.json",
+      "sha1": "9fa05d2794bdec26dee5224075c98bd7da9c1a0d"
+    },
+    {
+      "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "url": "https://gugas749server.co.uk/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "sha1": "011146c408530be1d928c628b089dc29d5c2d6f1"
     },
     {
       "path": "shaderpacks/colorfull_unbound_1.4.zip",
