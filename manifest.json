@@ -1,6 +1,6 @@
 {
   "name": "Patetas",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.249",
@@ -638,7 +638,7 @@
     {
       "path": "config/fancymenu/customization/title_screen_layout.txt",
       "url": "https://gugas749server.co.uk/config/fancymenu/customization/title_screen_layout.txt",
-      "sha1": "b2c9b196901ac3bf6dd670e1e1c87a010e8e59fd"
+      "sha1": "5c8a3dda51604bd77b8e39c463784096091e842f"
     },
     {
       "path": "config/fancymenu/ui_themes/cherry_blossom.json",
@@ -718,7 +718,7 @@
     {
       "path": "servers.dat",
       "url": "https://gugas749server.co.uk/servers.dat",
-      "sha1": "d06b70b95dfb642319bcc823d7a8ed7a029f4817"
+      "sha1": "ce98dde33fcce260ba8522d263195938e3fdbae3"
     },
     {
       "path": "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
