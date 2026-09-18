@@ -1,11 +1,14 @@
 {
   "name": "Patetas",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.249",
   "launchVersion": "neoforge-21.1.249",
   "delete": [
+    "shaderpacks/ComplementaryReimagined_r5.9.zip",
+    "shaderpacks/ComplementaryUnbound_r5.9.zip",
+    "shaderpacks/Sildur's Vibrant Shaders v2.01 Extreme.zip",
     "mods/pale-1.0.5-neoforge-1.21.1.jar"
   ],
   "blockedMods": [],
@@ -696,19 +699,19 @@
       "sha1": "d9f2948e123f61739954a9201df0ee7ad3386c72"
     },
     {
-      "path": "shaderpacks/ComplementaryReimagined_r5.9.zip",
-      "url": "https://gugas749server.co.uk/shaderpacks/ComplementaryReimagined_r5.9.zip",
-      "sha1": "90c08f60ac5db0ef07bc029452b8cd4cdd26ee1a"
+      "path": "shaderpacks/ComplementaryReimagined_r5.9.3.zip",
+      "url": "https://gugas749server.co.uk/shaderpacks/ComplementaryReimagined_r5.9.3.zip",
+      "sha1": "838139b54cddb56b2e83cd260d8efd960ac536d6"
     },
     {
-      "path": "shaderpacks/ComplementaryUnbound_r5.9.zip",
-      "url": "https://gugas749server.co.uk/shaderpacks/ComplementaryUnbound_r5.9.zip",
-      "sha1": "7d0e7113631d17f2d8ee0f45d7dbd5daed64e657"
+      "path": "shaderpacks/ComplementaryUnbound_r5.9.3.zip",
+      "url": "https://gugas749server.co.uk/shaderpacks/ComplementaryUnbound_r5.9.3.zip",
+      "sha1": "2ee08300e1d6f039e63eae8484dddf57b3aaaf67"
     },
     {
-      "path": "shaderpacks/Sildur's Vibrant Shaders v2.01 Extreme.zip",
-      "url": "https://gugas749server.co.uk/shaderpacks/Sildur's Vibrant Shaders v2.01 Extreme.zip",
-      "sha1": "78021b50600a7c46ce9371348b130cbb1f225f6f"
+      "path": "shaderpacks/Sildur's Vibrant Shaders v2.02 Extreme.zip",
+      "url": "https://gugas749server.co.uk/shaderpacks/Sildur's Vibrant Shaders v2.02 Extreme.zip",
+      "sha1": "2362f4dd27178879c30374c8f33965999bc350c8"
     },
     {
       "path": "shaderpacks/Solas Shader V3.7b.zip",
