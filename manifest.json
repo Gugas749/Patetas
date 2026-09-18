@@ -1,6 +1,6 @@
 {
   "name": "Patetas",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.249",
@@ -41,6 +41,11 @@
       "sha1": "4bcbdf388bd5e387beca7c627224aac33584b55b"
     },
     {
+      "path": "mods/BadOptimizations-2.4.1-1.21.1.jar",
+      "url": "https://gugas749server.co.uk/mods/BadOptimizations-2.4.1-1.21.1.jar",
+      "sha1": "1461d8e46391efd32a3085150e86094c9f6f5c9d"
+    },
+    {
       "path": "mods/balm-neoforge-1.21.1-21.0.65.jar",
       "url": "https://gugas749server.co.uk/mods/balm-neoforge-1.21.1-21.0.65.jar",
       "sha1": "69e0b3b69dd23c132e85b7e82310f45ae96b263d"
@@ -71,6 +76,11 @@
       "sha1": "6f5395f58139802edfde7cb9170279f92f291971"
     },
     {
+      "path": "mods/chunksending-1.21-3.9.jar",
+      "url": "https://gugas749server.co.uk/mods/chunksending-1.21-3.9.jar",
+      "sha1": "31706585eb19ef540d09fe23631f12489da004c5"
+    },
+    {
       "path": "mods/citadel-1.21.1-2.7.6.jar",
       "url": "https://gugas749server.co.uk/mods/citadel-1.21.1-2.7.6.jar",
       "sha1": "e0392370117ec16a721f8d65728944398de77607"
@@ -89,6 +99,11 @@
       "path": "mods/comicsbubbleschat-1.4.0-patetas.jar",
       "url": "https://gugas749server.co.uk/mods/comicsbubbleschat-1.4.0-patetas.jar",
       "sha1": "6a9a34304fc6529607fe58b4a5305baec59a39d5"
+    },
+    {
+      "path": "mods/connectivity-1.21.1-7.6.jar",
+      "url": "https://gugas749server.co.uk/mods/connectivity-1.21.1-7.6.jar",
+      "sha1": "6adebe84f745dec8fa33bc3982383bc1cc24d49e"
     },
     {
       "path": "mods/Controlling-neoforge-1.21.1-19.0.5.jar",
@@ -231,6 +246,11 @@
       "sha1": "25fb2352d0a0ef04f5ef0c1cbfe8ff8197195c16"
     },
     {
+      "path": "mods/ImmediatelyFast-NeoForge-1.6.14+1.21.1.jar",
+      "url": "https://gugas749server.co.uk/mods/ImmediatelyFast-NeoForge-1.6.14+1.21.1.jar",
+      "sha1": "fee59af2f39c66d09c4c09f441c799e76af70f97"
+    },
+    {
       "path": "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
       "url": "https://gugas749server.co.uk/mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
       "sha1": "1bd129cf7bce65d6b1c0543045f0620c98a0f885"
@@ -371,6 +391,11 @@
       "sha1": "05f666e973d32baaaf405acb9bbed6615b909971"
     },
     {
+      "path": "mods/saturn-mc1.21.1-0.1.5.jar",
+      "url": "https://gugas749server.co.uk/mods/saturn-mc1.21.1-0.1.5.jar",
+      "sha1": "e5b9c7e6a7856302c6b078255e6b90b5cc1ec0b0"
+    },
+    {
       "path": "mods/Searchables-neoforge-1.21.1-1.0.2.jar",
       "url": "https://gugas749server.co.uk/mods/Searchables-neoforge-1.21.1-1.0.2.jar",
       "sha1": "5b8a0b43a474c066371b2e16f9bfb88622552a74"
@@ -384,6 +409,11 @@
       "path": "mods/simulatedcoasters-0.1.5.jar",
       "url": "https://gugas749server.co.uk/mods/simulatedcoasters-0.1.5.jar",
       "sha1": "4d3381b781a1129f793358b8ae13e0abcd2e655b"
+    },
+    {
+      "path": "mods/smoothchunk-1.21-4.1.jar",
+      "url": "https://gugas749server.co.uk/mods/smoothchunk-1.21-4.1.jar",
+      "sha1": "f54d5d352e15560240f151a7d054096a33a58f4a"
     },
     {
       "path": "mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
@@ -529,6 +559,41 @@
       "path": "mods/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
       "url": "https://gugas749server.co.uk/mods/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
       "sha1": "bcab81f578b3cb31e599ae327c6634b9fa8d0f04"
+    },
+    {
+      "path": "config/badoptimizations.txt",
+      "url": "https://gugas749server.co.uk/config/badoptimizations.txt",
+      "sha1": "bb63eb59105e0613978cf8f9a1155af3665ffbf5"
+    },
+    {
+      "path": "config/chunksending.json",
+      "url": "https://gugas749server.co.uk/config/chunksending.json",
+      "sha1": "d6bce9f298065a880464c6a75030795652cfe568"
+    },
+    {
+      "path": "config/connectivity.json",
+      "url": "https://gugas749server.co.uk/config/connectivity.json",
+      "sha1": "3ccaf0d7c6f28a05c3da4c27da8488cb0ce87e01"
+    },
+    {
+      "path": "config/ferritecore-mixin.toml",
+      "url": "https://gugas749server.co.uk/config/ferritecore-mixin.toml",
+      "sha1": "e945e081f530f9eb4a92ab332fa2be9bf673bec0"
+    },
+    {
+      "path": "config/immediatelyfast.json",
+      "url": "https://gugas749server.co.uk/config/immediatelyfast.json",
+      "sha1": "b0555d72724835da31cb0354333240df78291eb9"
+    },
+    {
+      "path": "config/saturn-optimizations.toml",
+      "url": "https://gugas749server.co.uk/config/saturn-optimizations.toml",
+      "sha1": "384af2c5065a2daafdc2d335cdde0329d4da7fe7"
+    },
+    {
+      "path": "config/smoothchunk.json",
+      "url": "https://gugas749server.co.uk/config/smoothchunk.json",
+      "sha1": "fb8cd5819352eb0ad85feba124c3b6dda4b69ed4"
     },
     {
       "path": "config/fancymenu/customizablemenus.txt",
