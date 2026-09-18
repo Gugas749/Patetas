@@ -1,6 +1,6 @@
 {
   "name": "Patetas",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.249",
@@ -718,7 +718,7 @@
     {
       "path": "servers.dat",
       "url": "https://gugas749server.co.uk/servers.dat",
-      "sha1": "ce98dde33fcce260ba8522d263195938e3fdbae3"
+      "sha1": "c8b0251bf7d6060e3a02b74cef93e1a9750d5341"
     },
     {
       "path": "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
