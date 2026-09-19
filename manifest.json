@@ -1,6 +1,6 @@
 {
   "name": "Patetas",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.249",
@@ -601,7 +601,7 @@
     {
       "path": "config/fancymenu/customizablemenus.txt",
       "url": "https://gugas749server.co.uk/config/fancymenu/customizablemenus.txt",
-      "sha1": "becf0506a11598157f55da3e7b70734308f7117d"
+      "sha1": "08d7b554d5da2104bf0114e609cad14ef1100287"
     },
     {
       "path": "config/fancymenu/custom_gui_screens.txt",
@@ -616,7 +616,7 @@
     {
       "path": "config/fancymenu/options.txt",
       "url": "https://gugas749server.co.uk/config/fancymenu/options.txt",
-      "sha1": "fb6d8ebb695417b2ce9668309ae6fc20dfd8a0fa"
+      "sha1": "7c59ed549c0f49c5781f51ccc7b92b601fd074dd"
     },
     {
       "path": "config/fancymenu/user_variables.db",
@@ -639,9 +639,14 @@
       "sha1": "09698454dc5b9ad8f38b87e8e197d5598f20be25"
     },
     {
+      "path": "config/fancymenu/customization/join_multiplayer_screen_layout.txt",
+      "url": "https://gugas749server.co.uk/config/fancymenu/customization/join_multiplayer_screen_layout.txt",
+      "sha1": "d0a3269afd08c1373b58de1b5a12c154eae7ede6"
+    },
+    {
       "path": "config/fancymenu/customization/title_screen_layout.txt",
       "url": "https://gugas749server.co.uk/config/fancymenu/customization/title_screen_layout.txt",
-      "sha1": "5c8a3dda51604bd77b8e39c463784096091e842f"
+      "sha1": "c8dd604d2f725f157a4059e132027acf5e26f123"
     },
     {
       "path": "config/fancymenu/ui_themes/cherry_blossom.json",
