@@ -1,11 +1,19 @@
 {
   "name": "Patetas",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.249",
   "launchVersion": "neoforge-21.1.249",
   "delete": [
+    "mods/entity_model_features-3.3.7-1.21-neoforge.jar",
+    "mods/entity_texture_features-7.2.3-1.21-neoforge.jar",
+    "mods/journeymap-neoforge-1.21.1-6.0.8.jar",
+    "mods/letsdo-brewery-neoforge-2.1.9.jar",
+    "mods/letsdo-farm_and_charm-neoforge-1.1.23.jar",
+    "mods/lootintegrations_moog-2.1.jar",
+    "mods/MoogsSoaringStructures-1.21-2.1.2.jar",
+    "mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
     "shaderpacks/ComplementaryReimagined_r5.9.zip",
     "shaderpacks/ComplementaryUnbound_r5.9.zip",
     "shaderpacks/Sildur's Vibrant Shaders v2.01 Extreme.zip",
@@ -13,6 +21,11 @@
   ],
   "blockedMods": [],
   "files": [
+    {
+      "path": "mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
+      "url": "https://gugas749server.co.uk/mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
+      "sha1": "77d75c2e13cfdf56a45cdd29806c1c97c3d250fc"
+    },
     {
       "path": "mods/aeroworks-1.5.0.jar",
       "url": "https://gugas749server.co.uk/mods/aeroworks-1.5.0.jar",
@@ -49,6 +62,11 @@
       "sha1": "1461d8e46391efd32a3085150e86094c9f6f5c9d"
     },
     {
+      "path": "mods/baguettelib-1.21.1-NeoForge-2.0.7.jar",
+      "url": "https://gugas749server.co.uk/mods/baguettelib-1.21.1-NeoForge-2.0.7.jar",
+      "sha1": "3f4d8f7548a71a93ac60feefad0722d92a42d4bd"
+    },
+    {
       "path": "mods/balm-neoforge-1.21.1-21.0.65.jar",
       "url": "https://gugas749server.co.uk/mods/balm-neoforge-1.21.1-21.0.65.jar",
       "sha1": "69e0b3b69dd23c132e85b7e82310f45ae96b263d"
@@ -59,6 +77,11 @@
       "sha1": "9841095912d06defa96584b4f0c708ce720b6853"
     },
     {
+      "path": "mods/beltborne_lanterns-1.2.5-neoforge+1.21.1.jar",
+      "url": "https://gugas749server.co.uk/mods/beltborne_lanterns-1.2.5-neoforge+1.21.1.jar",
+      "sha1": "3a30923e4ec5db8fd6838d20ce2743b24feb212d"
+    },
+    {
       "path": "mods/BetterAnimationsCollection-v21.1.1-1.21.1-NeoForge.jar",
       "url": "https://gugas749server.co.uk/mods/BetterAnimationsCollection-v21.1.1-1.21.1-NeoForge.jar",
       "sha1": "1bacea8719a1af6079bb70a135129a2cd1559423"
@@ -67,6 +90,11 @@
       "path": "mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar",
       "url": "https://gugas749server.co.uk/mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar",
       "sha1": "6a12e1a249d074fb18f07d1f141b80ca2885e2be"
+    },
+    {
+      "path": "mods/bl_accessories_layer-1.2.2-neoforge+1.21.1.jar",
+      "url": "https://gugas749server.co.uk/mods/bl_accessories_layer-1.2.2-neoforge+1.21.1.jar",
+      "sha1": "f376a46fe48c61c9dacf76831253463354b73324"
     },
     {
       "path": "mods/carryon-neoforge-1.21.1-2.2.6.13.jar",
@@ -194,14 +222,14 @@
       "sha1": "1228c7597c4b6cbaec10a090f9b5b471ca9042d4"
     },
     {
-      "path": "mods/entity_model_features-3.3.7-1.21-neoforge.jar",
-      "url": "https://gugas749server.co.uk/mods/entity_model_features-3.3.7-1.21-neoforge.jar",
-      "sha1": "0fe32b8a8a6eb70e4508d076cd69fe4772307d21"
+      "path": "mods/entity_model_features-3.3.9-1.21-neoforge.jar",
+      "url": "https://gugas749server.co.uk/mods/entity_model_features-3.3.9-1.21-neoforge.jar",
+      "sha1": "022780fc9f221fc87ba507c6542d47c8e1e4889a"
     },
     {
-      "path": "mods/entity_texture_features-7.2.3-1.21-neoforge.jar",
-      "url": "https://gugas749server.co.uk/mods/entity_texture_features-7.2.3-1.21-neoforge.jar",
-      "sha1": "de9f37303e4dd8714eb6dc83cdee658752868eb0"
+      "path": "mods/entity_texture_features-7.2.4-1.21-neoforge.jar",
+      "url": "https://gugas749server.co.uk/mods/entity_texture_features-7.2.4-1.21-neoforge.jar",
+      "sha1": "2551bb98d82d4d4064acecd8b513f1db469c635e"
     },
     {
       "path": "mods/EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
@@ -279,9 +307,9 @@
       "sha1": "d19552586f686eae4ef5e7199f31604d1d3cfca7"
     },
     {
-      "path": "mods/journeymap-neoforge-1.21.1-6.0.8.jar",
-      "url": "https://gugas749server.co.uk/mods/journeymap-neoforge-1.21.1-6.0.8.jar",
-      "sha1": "e964f91ee6319bb1d789a7011e30772907962b90"
+      "path": "mods/journeymap-neoforge-1.21.1-6.0.9.jar",
+      "url": "https://gugas749server.co.uk/mods/journeymap-neoforge-1.21.1-6.0.9.jar",
+      "sha1": "3a5c86e620a7d5aa53b6e42ca4a1577bbba1d332"
     },
     {
       "path": "mods/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
@@ -304,14 +332,24 @@
       "sha1": "a2032c921e93a0ccb0db5d742167e3139c2de01b"
     },
     {
-      "path": "mods/letsdo-brewery-neoforge-2.1.9.jar",
-      "url": "https://gugas749server.co.uk/mods/letsdo-brewery-neoforge-2.1.9.jar",
-      "sha1": "3748fdb69cbb5abfc419ec873dc3bf142f0072d0"
+      "path": "mods/lambdynamiclights-4.8.11+1.21.1.jar",
+      "url": "https://gugas749server.co.uk/mods/lambdynamiclights-4.8.11+1.21.1.jar",
+      "sha1": "7b5afc75a094b4e8a7118f9856eec959b10f2422"
     },
     {
-      "path": "mods/letsdo-farm_and_charm-neoforge-1.1.23.jar",
-      "url": "https://gugas749server.co.uk/mods/letsdo-farm_and_charm-neoforge-1.1.23.jar",
-      "sha1": "92febd01301604d4f4a9a3c5b1188b1ac8250edc"
+      "path": "mods/letsdo-brewery-neoforge-2.1.11.jar",
+      "url": "https://gugas749server.co.uk/mods/letsdo-brewery-neoforge-2.1.11.jar",
+      "sha1": "c6a639dc6f1bad7bb45e27d67c0c00eb80b81246"
+    },
+    {
+      "path": "mods/letsdo-farm_and_charm-neoforge-1.1.25.jar",
+      "url": "https://gugas749server.co.uk/mods/letsdo-farm_and_charm-neoforge-1.1.25.jar",
+      "sha1": "1f7fb548661bdf4eac776fd4220d295d1c9ba46e"
+    },
+    {
+      "path": "mods/lithium-neoforge-0.15.4+mc1.21.1.jar",
+      "url": "https://gugas749server.co.uk/mods/lithium-neoforge-0.15.4+mc1.21.1.jar",
+      "sha1": "97212e45c963730bbfc7c44780df99317814c21b"
     },
     {
       "path": "mods/lootintegrations-1.21.1-4.7.jar",
@@ -319,9 +357,9 @@
       "sha1": "ba601fe630f444d974838bfd80a185a0e3e0309c"
     },
     {
-      "path": "mods/lootintegrations_moog-2.1.jar",
-      "url": "https://gugas749server.co.uk/mods/lootintegrations_moog-2.1.jar",
-      "sha1": "9eff22d61cfa3612b488b796046d3a0c4aa18cb3"
+      "path": "mods/lootintegrations_moog-2.2.jar",
+      "url": "https://gugas749server.co.uk/mods/lootintegrations_moog-2.2.jar",
+      "sha1": "aee596339f4593de71dc0b42482dd670fd4d8b64"
     },
     {
       "path": "mods/lootintegrations_yungs-1.6.jar",
@@ -334,14 +372,19 @@
       "sha1": "e83052a92c4ca0016bcfe7f0207273983dc84698"
     },
     {
+      "path": "mods/modernfix-neoforge-5.27.24+mc1.21.1.jar",
+      "url": "https://gugas749server.co.uk/mods/modernfix-neoforge-5.27.24+mc1.21.1.jar",
+      "sha1": "1fe7f8b4176e86507cc8ed5460b6acdd3dac5529"
+    },
+    {
       "path": "mods/MoogsNetherStructures-universal-1.21-3.1.1.jar",
       "url": "https://gugas749server.co.uk/mods/MoogsNetherStructures-universal-1.21-3.1.1.jar",
       "sha1": "78845cb7bccaa7812bacce4efdd5481b81b8c347"
     },
     {
-      "path": "mods/MoogsSoaringStructures-1.21-2.1.2.jar",
-      "url": "https://gugas749server.co.uk/mods/MoogsSoaringStructures-1.21-2.1.2.jar",
-      "sha1": "4cb63d032e016804f1dd3b2225a2105aa3425fb2"
+      "path": "mods/MoogsSoaringStructures-universal-1.21-2.2.0.jar",
+      "url": "https://gugas749server.co.uk/mods/MoogsSoaringStructures-universal-1.21-2.2.0.jar",
+      "sha1": "1284c673b46a50b0557c2c018f677323484665f6"
     },
     {
       "path": "mods/MoogsStructureLib-neoforge-1.21.1-3.3.1.jar",
@@ -367,6 +410,11 @@
       "path": "mods/netherportalfix-neoforge-1.21.1-21.1.1.jar",
       "url": "https://gugas749server.co.uk/mods/netherportalfix-neoforge-1.21.1-21.1.1.jar",
       "sha1": "7cf40ec774392823e709da7659a6d4a5a04c8c9d"
+    },
+    {
+      "path": "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "url": "https://gugas749server.co.uk/mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "sha1": "48dda11a6710591cf162bdbedf982ea21dd1f2ed"
     },
     {
       "path": "mods/Paraglider-neoforge-21.1.5.jar",
@@ -442,11 +490,6 @@
       "path": "mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
       "url": "https://gugas749server.co.uk/mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
       "sha1": "1757289be21ed18db5b0d90703fa3db1b2de5693"
-    },
-    {
-      "path": "mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
-      "url": "https://gugas749server.co.uk/mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
-      "sha1": "02e9bc7ba28147cdf2d608ecf4f2c1eab34b4652"
     },
     {
       "path": "mods/sophisticatedbackpacks-1.21.1-3.26.3.2158.jar",
