@@ -1,6 +1,6 @@
 {
   "name": "Patetas",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.249",
@@ -85,6 +85,11 @@
       "path": "mods/BetterAnimationsCollection-v21.1.1-1.21.1-NeoForge.jar",
       "url": "https://gugas749server.co.uk/mods/BetterAnimationsCollection-v21.1.1-1.21.1-NeoForge.jar",
       "sha1": "1bacea8719a1af6079bb70a135129a2cd1559423"
+    },
+    {
+      "path": "mods/bettersearch-neoforge-1.21.1-1.4.3.jar",
+      "url": "https://gugas749server.co.uk/mods/bettersearch-neoforge-1.21.1-1.4.3.jar",
+      "sha1": "1d8c368cab954b93192a3bef946f40a9a4e3c25f"
     },
     {
       "path": "mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar",
