@@ -1,7 +1,7 @@
 {
   "launcherVersion": "0.0.5",
   "name": "Patetas",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.249",
@@ -371,6 +371,11 @@
       "path": "mods/lootintegrations_yungs-1.6.jar",
       "url": "https://gugas749server.co.uk/mods/lootintegrations_yungs-1.6.jar",
       "sha1": "a0a2a57cb89435048819be14666c2a9f8d956828"
+    },
+    {
+      "path": "mods/mechtrowel-1.4.0-1.21.1-neoforge.jar",
+      "url": "https://gugas749server.co.uk/mods/mechtrowel-1.4.0-1.21.1-neoforge.jar",
+      "sha1": "db813918f671ce0aa59eb20035e17ea41afa30a0"
     },
     {
       "path": "mods/melody_neoforge_1.0.10_MC_1.21.jar",
