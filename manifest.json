@@ -1,6 +1,7 @@
 {
+  "launcherVersion": "0.0.5",
   "name": "Patetas",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.249",
@@ -502,6 +503,11 @@
       "sha1": "c9cef1451d73c5afef78a637c593634f55e757fc"
     },
     {
+      "path": "mods/sophisticatedbackpackscreateintegration-1.21.1-0.2.0.168.jar",
+      "url": "https://gugas749server.co.uk/mods/sophisticatedbackpackscreateintegration-1.21.1-0.2.0.168.jar",
+      "sha1": "9a0ff3064fc1328165bc77fc1409a6adf2d9a8fa"
+    },
+    {
       "path": "mods/sophisticatedcore-1.21.1-1.5.1.2341.jar",
       "url": "https://gugas749server.co.uk/mods/sophisticatedcore-1.21.1-1.5.1.2341.jar",
       "sha1": "a256b4d3c1218754a3172253e6bda644551be6a5"
@@ -510,6 +516,11 @@
       "path": "mods/sophisticatedstorage-1.21.1-1.5.91.2127.jar",
       "url": "https://gugas749server.co.uk/mods/sophisticatedstorage-1.21.1-1.5.91.2127.jar",
       "sha1": "74d5c0a411edfdd521c800fd8813f53c0f9a6f30"
+    },
+    {
+      "path": "mods/sophisticatedstoragecreateintegration-1.21.1-0.1.21.209.jar",
+      "url": "https://gugas749server.co.uk/mods/sophisticatedstoragecreateintegration-1.21.1-0.1.21.209.jar",
+      "sha1": "d8f72f22459750496008a7c2a39dc865152d075c"
     },
     {
       "path": "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
