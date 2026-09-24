@@ -1,12 +1,17 @@
 {
-  "launcherVersion": "0.0.5",
+  "launcherVersion": "0.0.7",
   "name": "Patetas",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.249",
   "launchVersion": "neoforge-21.1.249",
   "delete": [
+    "mods/aeroworks-1.5.0.jar",
+    "mods/create-aeronautics-bundled-1.21.1-1.3.2.jar",
+    "mods/sable-neoforge-1.21.1-2.0.5.jar",
+    "mods/simulatedcoasters-0.1.5.jar",
+    "mods/WorldEditCUI-NeoForge-1.21.1+02-SNAPSHOT.jar",
     "mods/entity_model_features-3.3.7-1.21-neoforge.jar",
     "mods/entity_texture_features-7.2.3-1.21-neoforge.jar",
     "mods/journeymap-neoforge-1.21.1-6.0.8.jar",
@@ -26,11 +31,6 @@
       "path": "mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
       "url": "https://gugas749server.co.uk/mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
       "sha1": "77d75c2e13cfdf56a45cdd29806c1c97c3d250fc"
-    },
-    {
-      "path": "mods/aeroworks-1.5.0.jar",
-      "url": "https://gugas749server.co.uk/mods/aeroworks-1.5.0.jar",
-      "sha1": "a14ff1c30f3c824b36ee6e2e711a47fd537a5c5f"
     },
     {
       "path": "mods/alexscaves-2.0.10.jar",
@@ -173,11 +173,6 @@
       "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353"
     },
     {
-      "path": "mods/create-aeronautics-bundled-1.21.1-1.3.2.jar",
-      "url": "https://gugas749server.co.uk/mods/create-aeronautics-bundled-1.21.1-1.3.2.jar",
-      "sha1": "ddbe9cbc25e8f663218aa1e9fdfc4b99f0e11e4b"
-    },
-    {
       "path": "mods/create-enchantment-industry-2.4.2.jar",
       "url": "https://gugas749server.co.uk/mods/create-enchantment-industry-2.4.2.jar",
       "sha1": "4ad5c181c805a548e15892500b07c0c0f88f0734"
@@ -296,6 +291,11 @@
       "path": "mods/ImmediatelyFast-NeoForge-1.6.14+1.21.1.jar",
       "url": "https://gugas749server.co.uk/mods/ImmediatelyFast-NeoForge-1.6.14+1.21.1.jar",
       "sha1": "fee59af2f39c66d09c4c09f441c799e76af70f97"
+    },
+    {
+      "path": "mods/inventorysorter-1.21.1-24.0.24.jar",
+      "url": "https://gugas749server.co.uk/mods/inventorysorter-1.21.1-24.0.24.jar",
+      "sha1": "8c842959ecb1927e1c7049d41d024fadf329a584"
     },
     {
       "path": "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -468,11 +468,6 @@
       "sha1": "ec2e4996f8bee8714173e603e379fef8a6901765"
     },
     {
-      "path": "mods/sable-neoforge-1.21.1-2.0.5.jar",
-      "url": "https://gugas749server.co.uk/mods/sable-neoforge-1.21.1-2.0.5.jar",
-      "sha1": "05f666e973d32baaaf405acb9bbed6615b909971"
-    },
-    {
       "path": "mods/saturn-mc1.21.1-0.1.5.jar",
       "url": "https://gugas749server.co.uk/mods/saturn-mc1.21.1-0.1.5.jar",
       "sha1": "e5b9c7e6a7856302c6b078255e6b90b5cc1ec0b0"
@@ -486,11 +481,6 @@
       "path": "mods/simplenicknames-1.21.1-neoforge-0.8.0.jar",
       "url": "https://gugas749server.co.uk/mods/simplenicknames-1.21.1-neoforge-0.8.0.jar",
       "sha1": "fd762aac2257fb7af50a483cfba004741f38ab44"
-    },
-    {
-      "path": "mods/simulatedcoasters-0.1.5.jar",
-      "url": "https://gugas749server.co.uk/mods/simulatedcoasters-0.1.5.jar",
-      "sha1": "4d3381b781a1129f793358b8ae13e0abcd2e655b"
     },
     {
       "path": "mods/smoothchunk-1.21-4.1.jar",
@@ -591,11 +581,6 @@
       "path": "mods/worldedit-mod-7.3.8.jar",
       "url": "https://gugas749server.co.uk/mods/worldedit-mod-7.3.8.jar",
       "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250"
-    },
-    {
-      "path": "mods/WorldEditCUI-NeoForge-1.21.1+02-SNAPSHOT.jar",
-      "url": "https://gugas749server.co.uk/mods/WorldEditCUI-NeoForge-1.21.1+02-SNAPSHOT.jar",
-      "sha1": "ad2653eeb1ad84c15de5739ee98b1879957ac3fa"
     },
     {
       "path": "mods/YungsApi-1.21.1-NeoForge-5.1.9.jar",
