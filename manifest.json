@@ -1,12 +1,14 @@
 {
   "launcherVersion": "0.0.7",
   "name": "Patetas",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.249",
   "launchVersion": "neoforge-21.1.249",
   "delete": [
+    "mods/ChaosMoon-1.21.1-NeoForge-1.0.2.jar",
+    "mods/Enhanced-Celestials-NeoForge-1.21.1-6.0.2.6.jar",
     "mods/Immersive Vehicles-1.21.1-24.0.0.jar",
     "mods/MTS Official Pack-1.21.1-V29.jar",
     "mods/ExtremeSoundMuffler-3.56_NeoForge-1.21.jar",
@@ -142,11 +144,6 @@
       "path": "mods/carryon-neoforge-1.21.1-2.2.6.13.jar",
       "url": "https://gugas749server.co.uk/mods/carryon-neoforge-1.21.1-2.2.6.13.jar",
       "sha1": "2ceb0d9284525b6cb2a214c88cf6511cab91f601"
-    },
-    {
-      "path": "mods/ChaosMoon-1.21.1-NeoForge-1.0.2.jar",
-      "url": "https://gugas749server.co.uk/mods/ChaosMoon-1.21.1-NeoForge-1.0.2.jar",
-      "sha1": "27852018cc9f3420611518e7ec4a27d086d5a2a6"
     },
     {
       "path": "mods/charta-neoforge-1.21.1-1.2.5.jar",
@@ -314,9 +311,19 @@
       "sha1": "1228c7597c4b6cbaec10a090f9b5b471ca9042d4"
     },
     {
-      "path": "mods/Enhanced-Celestials-NeoForge-1.21.1-6.0.2.6.jar",
-      "url": "https://gugas749server.co.uk/mods/Enhanced-Celestials-NeoForge-1.21.1-6.0.2.6.jar",
-      "sha1": "fa59a7bb69e3973980f525083897a2d5d74fea10"
+      "path": "mods/Enhanced-Celestials-2-Core-NeoForge-1.21.1-2.0.3.3.jar",
+      "url": "https://gugas749server.co.uk/mods/Enhanced-Celestials-2-Core-NeoForge-1.21.1-2.0.3.3.jar",
+      "sha1": "e98332a46972dd89bbb472395687af72ef988c9a"
+    },
+    {
+      "path": "mods/Enhanced-Celestials-2-Default-Lunar-Events-NeoForge-1.21.1-2.0.1.3.jar",
+      "url": "https://gugas749server.co.uk/mods/Enhanced-Celestials-2-Default-Lunar-Events-NeoForge-1.21.1-2.0.1.3.jar",
+      "sha1": "6b11db7910353d7f9cec7a6c125ae6199e354567"
+    },
+    {
+      "path": "mods/Enhanced-Celestials-2-Shaders-NeoForge-1.21.1-2.0.0.3.jar",
+      "url": "https://gugas749server.co.uk/mods/Enhanced-Celestials-2-Shaders-NeoForge-1.21.1-2.0.0.3.jar",
+      "sha1": "c17d15c2bf260382e5fbc0e5d56a4abb51c9a5c7"
     },
     {
       "path": "mods/entity_model_features-3.3.9-1.21-neoforge.jar",
