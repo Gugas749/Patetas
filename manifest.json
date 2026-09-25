@@ -1,12 +1,14 @@
 {
   "launcherVersion": "0.0.7",
   "name": "Patetas",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.249",
   "launchVersion": "neoforge-21.1.249",
   "delete": [
+    "mods/abysscore-0.0.2.jar",
+    "mods/comicsbubbleschat-1.4.0-patetas.jar",
     "mods/abysscore-0.0.1.jar",
     "mods/aeroworks-1.5.0.jar",
     "mods/create-aeronautics-bundled-1.21.1-1.3.2.jar",
@@ -29,9 +31,14 @@
   "blockedMods": [],
   "files": [
     {
-      "path": "mods/abysscore-0.0.2.jar",
-      "url": "https://gugas749server.co.uk/mods/abysscore-0.0.2.jar",
-      "sha1": "ec69ca7d31b9b6f6886507e27713d099fcafe327"
+      "path": "mods/abyssbubbles-0.0.2.jar",
+      "url": "https://gugas749server.co.uk/mods/abyssbubbles-0.0.2.jar",
+      "sha1": "003076e1b8c1791751aa53ffc75e5748ad70b7b8"
+    },
+    {
+      "path": "mods/abysscore-0.0.3.jar",
+      "url": "https://gugas749server.co.uk/mods/abysscore-0.0.3.jar",
+      "sha1": "815c8cc6e7cfa4160bbc0a8d80165d9b6b7518b1"
     },
     {
       "path": "mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
@@ -167,11 +174,6 @@
       "path": "mods/collective-1.21.1-8.40.jar",
       "url": "https://gugas749server.co.uk/mods/collective-1.21.1-8.40.jar",
       "sha1": "f32e8ccf56cbd8f9f64f265364fd3d255489d2e9"
-    },
-    {
-      "path": "mods/comicsbubbleschat-1.4.0-patetas.jar",
-      "url": "https://gugas749server.co.uk/mods/comicsbubbleschat-1.4.0-patetas.jar",
-      "sha1": "6a9a34304fc6529607fe58b4a5305baec59a39d5"
     },
     {
       "path": "mods/connectivity-1.21.1-7.6.jar",
