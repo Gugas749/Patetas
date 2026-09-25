@@ -1,7 +1,7 @@
 {
   "launcherVersion": "0.0.7",
   "name": "Patetas",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.249",
@@ -103,14 +103,34 @@
       "sha1": "6a12e1a249d074fb18f07d1f141b80ca2885e2be"
     },
     {
+      "path": "mods/block_factorys_bosses-2.1.2-neo-1.21.1.jar",
+      "url": "https://gugas749server.co.uk/mods/block_factorys_bosses-2.1.2-neo-1.21.1.jar",
+      "sha1": "249a5f2ba43fd341d4a2831691c154d92aa5a12d"
+    },
+    {
       "path": "mods/bl_accessories_layer-1.2.2-neoforge+1.21.1.jar",
       "url": "https://gugas749server.co.uk/mods/bl_accessories_layer-1.2.2-neoforge+1.21.1.jar",
       "sha1": "f376a46fe48c61c9dacf76831253463354b73324"
     },
     {
+      "path": "mods/born_in_chaos_[Neoforge]_1.21.1_1.7.6.jar",
+      "url": "https://gugas749server.co.uk/mods/born_in_chaos_[Neoforge]_1.21.1_1.7.6.jar",
+      "sha1": "73704f38ac368c03716f9cc8f537470d3b352fa2"
+    },
+    {
+      "path": "mods/BrazilThings-2.1.0-neoforge-1.21.1.jar",
+      "url": "https://gugas749server.co.uk/mods/BrazilThings-2.1.0-neoforge-1.21.1.jar",
+      "sha1": "15f3149b4be149e404a7b474454f454a85890eb9"
+    },
+    {
       "path": "mods/carryon-neoforge-1.21.1-2.2.6.13.jar",
       "url": "https://gugas749server.co.uk/mods/carryon-neoforge-1.21.1-2.2.6.13.jar",
       "sha1": "2ceb0d9284525b6cb2a214c88cf6511cab91f601"
+    },
+    {
+      "path": "mods/charta-neoforge-1.21.1-1.2.5.jar",
+      "url": "https://gugas749server.co.uk/mods/charta-neoforge-1.21.1-1.2.5.jar",
+      "sha1": "8a86e06ff70316499d9d7ea6239b5ae645a733e9"
     },
     {
       "path": "mods/chat_heads-0.15.7-neoforge-1.21.jar",
@@ -228,6 +248,11 @@
       "sha1": "b47a59369a55f818cadd9e0eeb9352b4028a5e9b"
     },
     {
+      "path": "mods/easy_mob_spawn_control-1.5.11.jar",
+      "url": "https://gugas749server.co.uk/mods/easy_mob_spawn_control-1.5.11.jar",
+      "sha1": "9520be3f6c4c155555053e303f21539bd033d773"
+    },
+    {
       "path": "mods/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
       "url": "https://gugas749server.co.uk/mods/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
       "sha1": "1228c7597c4b6cbaec10a090f9b5b471ca9042d4"
@@ -251,6 +276,11 @@
       "path": "mods/EuphoriaPatcher-1.10.5-r5.9.3-neoforge.jar",
       "url": "https://gugas749server.co.uk/mods/EuphoriaPatcher-1.10.5-r5.9.3-neoforge.jar",
       "sha1": "2b3f92878d6867fa0199937da25ba882b9db7902"
+    },
+    {
+      "path": "mods/ExtremeSoundMuffler-3.56_NeoForge-1.21.jar",
+      "url": "https://gugas749server.co.uk/mods/ExtremeSoundMuffler-3.56_NeoForge-1.21.jar",
+      "sha1": "f8b558f8c464f202f4a88a44332b3a495c0dc727"
     },
     {
       "path": "mods/fancymenu_neoforge_3.9.0_MC_1.21.1.jar",
@@ -393,6 +423,11 @@
       "sha1": "e83052a92c4ca0016bcfe7f0207273983dc84698"
     },
     {
+      "path": "mods/minebet-1.0.0.jar",
+      "url": "https://gugas749server.co.uk/mods/minebet-1.0.0.jar",
+      "sha1": "32addb3f4a2e431fa12a75657295ec67dcb2dc66"
+    },
+    {
       "path": "mods/modernfix-neoforge-5.27.24+mc1.21.1.jar",
       "url": "https://gugas749server.co.uk/mods/modernfix-neoforge-5.27.24+mc1.21.1.jar",
       "sha1": "1fe7f8b4176e86507cc8ed5460b6acdd3dac5529"
@@ -426,6 +461,16 @@
       "path": "mods/mowziesmobs-1.21.1-1.8.2.jar",
       "url": "https://gugas749server.co.uk/mods/mowziesmobs-1.21.1-1.8.2.jar",
       "sha1": "d64475cd77444b056ece6472c79d40293dc63c6c"
+    },
+    {
+      "path": "mods/MutantMonsters-v21.1.1-1.21.1-NeoForge.jar",
+      "url": "https://gugas749server.co.uk/mods/MutantMonsters-v21.1.1-1.21.1-NeoForge.jar",
+      "sha1": "c9981cf323d5e0fd49387ad20dafec1f58b2c88d"
+    },
+    {
+      "path": "mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+      "url": "https://gugas749server.co.uk/mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+      "sha1": "e19721873bebc4dbc1674bb101af39d0ea406b95"
     },
     {
       "path": "mods/netherportalfix-neoforge-1.21.1-21.1.1.jar",
