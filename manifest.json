@@ -1,7 +1,7 @@
 {
   "launcherVersion": "0.0.7",
   "name": "Patetas",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.249",
@@ -162,6 +162,11 @@
       "path": "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
       "url": "https://gugas749server.co.uk/mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
       "sha1": "fa2576297c7bd12b28aa7070e8141792bd66da4c"
+    },
+    {
+      "path": "mods/collective-1.21.1-8.40.jar",
+      "url": "https://gugas749server.co.uk/mods/collective-1.21.1-8.40.jar",
+      "sha1": "f32e8ccf56cbd8f9f64f265364fd3d255489d2e9"
     },
     {
       "path": "mods/comicsbubbleschat-1.4.0-patetas.jar",
