@@ -1,12 +1,14 @@
 {
   "launcherVersion": "0.0.7",
   "name": "Patetas",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.249",
   "launchVersion": "neoforge-21.1.249",
   "delete": [
+    "mods/Immersive Vehicles-1.21.1-24.0.0.jar",
+    "mods/MTS Official Pack-1.21.1-V29.jar",
     "mods/ExtremeSoundMuffler-3.56_NeoForge-1.21.jar",
     "mods/abysscore-0.0.2.jar",
     "mods/comicsbubbleschat-1.4.0-patetas.jar",
@@ -387,11 +389,6 @@
       "sha1": "fee59af2f39c66d09c4c09f441c799e76af70f97"
     },
     {
-      "path": "mods/Immersive Vehicles-1.21.1-24.0.0.jar",
-      "url": "https://gugas749server.co.uk/mods/Immersive Vehicles-1.21.1-24.0.0.jar",
-      "sha1": "7050a332f18d390610029de28c13fb6139786607"
-    },
-    {
       "path": "mods/inventorysorter-1.21.1-24.0.24.jar",
       "url": "https://gugas749server.co.uk/mods/inventorysorter-1.21.1-24.0.24.jar",
       "sha1": "8c842959ecb1927e1c7049d41d024fadf329a584"
@@ -540,11 +537,6 @@
       "path": "mods/mowziesmobs-1.21.1-1.8.2.jar",
       "url": "https://gugas749server.co.uk/mods/mowziesmobs-1.21.1-1.8.2.jar",
       "sha1": "d64475cd77444b056ece6472c79d40293dc63c6c"
-    },
-    {
-      "path": "mods/MTS Official Pack-1.21.1-V29.jar",
-      "url": "https://gugas749server.co.uk/mods/MTS Official Pack-1.21.1-V29.jar",
-      "sha1": "7e7cc4389379cdb7addc1bb29ff1700099cee5bb"
     },
     {
       "path": "mods/MutantMonsters-v21.1.1-1.21.1-NeoForge.jar",
