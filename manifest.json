@@ -1,7 +1,7 @@
 {
   "launcherVersion": "0.0.7",
   "name": "Patetas",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.249",
@@ -289,6 +289,11 @@
       "path": "mods/easy_mob_spawn_control-1.5.11.jar",
       "url": "https://gugas749server.co.uk/mods/easy_mob_spawn_control-1.5.11.jar",
       "sha1": "9520be3f6c4c155555053e303f21539bd033d773"
+    },
+    {
+      "path": "mods/easy_model_entities-neoforge-1.21.1-2.4.0.jar",
+      "url": "https://gugas749server.co.uk/mods/easy_model_entities-neoforge-1.21.1-2.4.0.jar",
+      "sha1": "f5bc1927a5b69cc0fc1ed04a9f047e12365cb9a1"
     },
     {
       "path": "mods/easy_npc-neoforge-1.21.1-7.12.1.jar",
@@ -969,6 +974,21 @@
       "path": "config/fancymenu/ui_themes/spooky_season.json",
       "url": "https://gugas749server.co.uk/config/fancymenu/ui_themes/spooky_season.json",
       "sha1": "9fa05d2794bdec26dee5224075c98bd7da9c1a0d"
+    },
+    {
+      "path": "config/easy_npc/skin/humanoid/16c8f36be4c5f721.png",
+      "url": "https://gugas749server.co.uk/config/easy_npc/skin/humanoid/16c8f36be4c5f721.png",
+      "sha1": "b9c945f87d4991eda18bc6105dfc9f39acd2defc"
+    },
+    {
+      "path": "config/easy_npc/skin/humanoid/3407af544fc5463f.png",
+      "url": "https://gugas749server.co.uk/config/easy_npc/skin/humanoid/3407af544fc5463f.png",
+      "sha1": "36c41f0204e9b4dfb4a78d55da1d6715cb66ebe9"
+    },
+    {
+      "path": "config/easy_npc/skin/humanoid/d06d9478ef1495aa.png",
+      "url": "https://gugas749server.co.uk/config/easy_npc/skin/humanoid/d06d9478ef1495aa.png",
+      "sha1": "e09adf9295130c32b4736ecc841d617711c297ea"
     },
     {
       "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
