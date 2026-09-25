@@ -1,12 +1,13 @@
 {
   "launcherVersion": "0.0.7",
   "name": "Patetas",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.249",
   "launchVersion": "neoforge-21.1.249",
   "delete": [
+    "mods/ExtremeSoundMuffler-3.56_NeoForge-1.21.jar",
     "mods/abysscore-0.0.2.jar",
     "mods/comicsbubbleschat-1.4.0-patetas.jar",
     "mods/abysscore-0.0.1.jar",
@@ -334,11 +335,6 @@
       "path": "mods/EuphoriaPatcher-1.10.5-r5.9.3-neoforge.jar",
       "url": "https://gugas749server.co.uk/mods/EuphoriaPatcher-1.10.5-r5.9.3-neoforge.jar",
       "sha1": "2b3f92878d6867fa0199937da25ba882b9db7902"
-    },
-    {
-      "path": "mods/ExtremeSoundMuffler-3.56_NeoForge-1.21.jar",
-      "url": "https://gugas749server.co.uk/mods/ExtremeSoundMuffler-3.56_NeoForge-1.21.jar",
-      "sha1": "f8b558f8c464f202f4a88a44332b3a495c0dc727"
     },
     {
       "path": "mods/fancymenu_neoforge_3.9.0_MC_1.21.1.jar",
