@@ -1,7 +1,7 @@
 {
   "launcherVersion": "0.0.7",
   "name": "Patetas",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.249",
@@ -131,9 +131,19 @@
       "sha1": "15f3149b4be149e404a7b474454f454a85890eb9"
     },
     {
+      "path": "mods/camera-neoforge-1.21.1-1.0.22.jar",
+      "url": "https://gugas749server.co.uk/mods/camera-neoforge-1.21.1-1.0.22.jar",
+      "sha1": "79c6969bfad4e3b903ba247ebb1f64882ef09aa3"
+    },
+    {
       "path": "mods/carryon-neoforge-1.21.1-2.2.6.13.jar",
       "url": "https://gugas749server.co.uk/mods/carryon-neoforge-1.21.1-2.2.6.13.jar",
       "sha1": "2ceb0d9284525b6cb2a214c88cf6511cab91f601"
+    },
+    {
+      "path": "mods/ChaosMoon-1.21.1-NeoForge-1.0.2.jar",
+      "url": "https://gugas749server.co.uk/mods/ChaosMoon-1.21.1-NeoForge-1.0.2.jar",
+      "sha1": "27852018cc9f3420611518e7ec4a27d086d5a2a6"
     },
     {
       "path": "mods/charta-neoforge-1.21.1-1.2.5.jar",
@@ -186,6 +196,11 @@
       "sha1": "8a34424fc1428778be2fdbfa4da67b21b70bcbfe"
     },
     {
+      "path": "mods/Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
+      "url": "https://gugas749server.co.uk/mods/Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
+      "sha1": "6699f876f9e10f936910055f7fe1a283d8bb9e0f"
+    },
+    {
       "path": "mods/corpse-neoforge-1.21.1-1.1.13.jar",
       "url": "https://gugas749server.co.uk/mods/corpse-neoforge-1.21.1-1.1.13.jar",
       "sha1": "4f42091ef36e98e99c2f28a273ded960c0ac08bd"
@@ -209,6 +224,11 @@
       "path": "mods/create-enchantment-industry-2.4.2.jar",
       "url": "https://gugas749server.co.uk/mods/create-enchantment-industry-2.4.2.jar",
       "sha1": "4ad5c181c805a548e15892500b07c0c0f88f0734"
+    },
+    {
+      "path": "mods/createbetterfps-1.21.1-1.1.5.jar",
+      "url": "https://gugas749server.co.uk/mods/createbetterfps-1.21.1-1.1.5.jar",
+      "sha1": "c06111569e30af58d1cec4b4ee4b545f0021172a"
     },
     {
       "path": "mods/CreateDragonsPlus-1.11.9.jar",
@@ -246,9 +266,19 @@
       "sha1": "6c2d786a161f49470dad92b2edaefdac38a1e79b"
     },
     {
+      "path": "mods/Data_Anchor-neoforge-1.21.1-2.0.0.17.jar",
+      "url": "https://gugas749server.co.uk/mods/Data_Anchor-neoforge-1.21.1-2.0.0.17.jar",
+      "sha1": "8794eb858535764839e1c1299d3f3ba82d275ad0"
+    },
+    {
       "path": "mods/DiscCord-1.21.1-1.2.8.jar",
       "url": "https://gugas749server.co.uk/mods/DiscCord-1.21.1-1.2.8.jar",
       "sha1": "168329f34e8cd8ba3b056889325e9ba0a7f013bd"
+    },
+    {
+      "path": "mods/dragonfight-1.21-4.9.jar",
+      "url": "https://gugas749server.co.uk/mods/dragonfight-1.21-4.9.jar",
+      "sha1": "5689a115263b540325f266cf33eb977308f8d056"
     },
     {
       "path": "mods/drippyloadingscreen_neoforge_3.1.2_MC_1.21.1.jar",
@@ -261,9 +291,29 @@
       "sha1": "9520be3f6c4c155555053e303f21539bd033d773"
     },
     {
+      "path": "mods/easy_npc-neoforge-1.21.1-7.12.1.jar",
+      "url": "https://gugas749server.co.uk/mods/easy_npc-neoforge-1.21.1-7.12.1.jar",
+      "sha1": "ed56854e39545cefdde1fe6695d9f52a31393bdc"
+    },
+    {
+      "path": "mods/easy_npc_bundle-neoforge-1.21.1-7.12.1.jar",
+      "url": "https://gugas749server.co.uk/mods/easy_npc_bundle-neoforge-1.21.1-7.12.1.jar",
+      "sha1": "2aaf47e6d2f586b8e7bafaf12b7c1f18eedd4d65"
+    },
+    {
+      "path": "mods/easy_npc_config_ui-neoforge-1.21.1-7.12.1.jar",
+      "url": "https://gugas749server.co.uk/mods/easy_npc_config_ui-neoforge-1.21.1-7.12.1.jar",
+      "sha1": "84eb6b0500d9be672d6999df1ff57271a573c389"
+    },
+    {
       "path": "mods/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
       "url": "https://gugas749server.co.uk/mods/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
       "sha1": "1228c7597c4b6cbaec10a090f9b5b471ca9042d4"
+    },
+    {
+      "path": "mods/Enhanced-Celestials-NeoForge-1.21.1-6.0.2.6.jar",
+      "url": "https://gugas749server.co.uk/mods/Enhanced-Celestials-NeoForge-1.21.1-6.0.2.6.jar",
+      "sha1": "fa59a7bb69e3973980f525083897a2d5d74fea10"
     },
     {
       "path": "mods/entity_model_features-3.3.9-1.21-neoforge.jar",
@@ -341,6 +391,11 @@
       "sha1": "fee59af2f39c66d09c4c09f441c799e76af70f97"
     },
     {
+      "path": "mods/Immersive Vehicles-1.21.1-24.0.0.jar",
+      "url": "https://gugas749server.co.uk/mods/Immersive Vehicles-1.21.1-24.0.0.jar",
+      "sha1": "7050a332f18d390610029de28c13fb6139786607"
+    },
+    {
       "path": "mods/inventorysorter-1.21.1-24.0.24.jar",
       "url": "https://gugas749server.co.uk/mods/inventorysorter-1.21.1-24.0.24.jar",
       "sha1": "8c842959ecb1927e1c7049d41d024fadf329a584"
@@ -349,6 +404,11 @@
       "path": "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
       "url": "https://gugas749server.co.uk/mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
       "sha1": "1bd129cf7bce65d6b1c0543045f0620c98a0f885"
+    },
+    {
+      "path": "mods/Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar",
+      "url": "https://gugas749server.co.uk/mods/Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar",
+      "sha1": "0cb46a873376d7ded387e175bf30181fcc079c15"
     },
     {
       "path": "mods/Jade-1.21.1-NeoForge-15.10.6.jar",
@@ -406,6 +466,11 @@
       "sha1": "97212e45c963730bbfc7c44780df99317814c21b"
     },
     {
+      "path": "mods/locks_reforged-neoforge-1.21.1-1.7.5.jar",
+      "url": "https://gugas749server.co.uk/mods/locks_reforged-neoforge-1.21.1-1.7.5.jar",
+      "sha1": "a3269ecde83e1047aae1d4f3139603b2eaa9182f"
+    },
+    {
       "path": "mods/lootintegrations-1.21.1-4.7.jar",
       "url": "https://gugas749server.co.uk/mods/lootintegrations-1.21.1-4.7.jar",
       "sha1": "ba601fe630f444d974838bfd80a185a0e3e0309c"
@@ -419,6 +484,16 @@
       "path": "mods/lootintegrations_yungs-1.6.jar",
       "url": "https://gugas749server.co.uk/mods/lootintegrations_yungs-1.6.jar",
       "sha1": "a0a2a57cb89435048819be14666c2a9f8d956828"
+    },
+    {
+      "path": "mods/lootr-neoforge-1.21.1-1.11.38.127.jar",
+      "url": "https://gugas749server.co.uk/mods/lootr-neoforge-1.21.1-1.11.38.127.jar",
+      "sha1": "7a305b581abd90e1a8b7c1bb5eb4511d2653aa58"
+    },
+    {
+      "path": "mods/mcw-roads-1.0.0-mc1.21.1neoforge.jar",
+      "url": "https://gugas749server.co.uk/mods/mcw-roads-1.0.0-mc1.21.1neoforge.jar",
+      "sha1": "561e23890425926d67741456517883f127069d1f"
     },
     {
       "path": "mods/mechtrowel-1.4.0-1.21.1-neoforge.jar",
@@ -471,6 +546,11 @@
       "sha1": "d64475cd77444b056ece6472c79d40293dc63c6c"
     },
     {
+      "path": "mods/MTS Official Pack-1.21.1-V29.jar",
+      "url": "https://gugas749server.co.uk/mods/MTS Official Pack-1.21.1-V29.jar",
+      "sha1": "7e7cc4389379cdb7addc1bb29ff1700099cee5bb"
+    },
+    {
       "path": "mods/MutantMonsters-v21.1.1-1.21.1-NeoForge.jar",
       "url": "https://gugas749server.co.uk/mods/MutantMonsters-v21.1.1-1.21.1-NeoForge.jar",
       "sha1": "c9981cf323d5e0fd49387ad20dafec1f58b2c88d"
@@ -479,6 +559,11 @@
       "path": "mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
       "url": "https://gugas749server.co.uk/mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
       "sha1": "e19721873bebc4dbc1674bb101af39d0ea406b95"
+    },
+    {
+      "path": "mods/Necronomicon-NeoForge-1.6.0+1.21.jar",
+      "url": "https://gugas749server.co.uk/mods/Necronomicon-NeoForge-1.6.0+1.21.jar",
+      "sha1": "4d81055810e07a94b68d16ab20ec298ad0d597a0"
     },
     {
       "path": "mods/netherportalfix-neoforge-1.21.1-21.1.1.jar",
@@ -501,9 +586,19 @@
       "sha1": "f859d68818e522fb00056d3ed1603ca4300eb681"
     },
     {
+      "path": "mods/Pehkui-3.8.3+1.21-neoforge.jar",
+      "url": "https://gugas749server.co.uk/mods/Pehkui-3.8.3+1.21-neoforge.jar",
+      "sha1": "4ae35b04b0fca7b170417a12d6da6a693281574b"
+    },
+    {
       "path": "mods/PlayerRevive_NEOFORGE_v2.1.2_mc1.21.1.jar",
       "url": "https://gugas749server.co.uk/mods/PlayerRevive_NEOFORGE_v2.1.2_mc1.21.1.jar",
       "sha1": "b1ee96cfefa36e1c05aaab8e92bfb3f9ae927d15"
+    },
+    {
+      "path": "mods/provfootball-0.2.3.jar",
+      "url": "https://gugas749server.co.uk/mods/provfootball-0.2.3.jar",
+      "sha1": "636df51a1513723ccb55a7d564103f9aa9dff364"
     },
     {
       "path": "mods/PuzzlesLib-v21.1.60-mc1.21.1-NeoForge.jar",
@@ -536,9 +631,19 @@
       "sha1": "e5b9c7e6a7856302c6b078255e6b90b5cc1ec0b0"
     },
     {
+      "path": "mods/savage_creepers-2.2-neoforge-1.21.1.jar",
+      "url": "https://gugas749server.co.uk/mods/savage_creepers-2.2-neoforge-1.21.1.jar",
+      "sha1": "c710824a12111991c3f47f03afc761078df159d0"
+    },
+    {
       "path": "mods/Searchables-neoforge-1.21.1-1.0.2.jar",
       "url": "https://gugas749server.co.uk/mods/Searchables-neoforge-1.21.1-1.0.2.jar",
       "sha1": "5b8a0b43a474c066371b2e16f9bfb88622552a74"
+    },
+    {
+      "path": "mods/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
+      "url": "https://gugas749server.co.uk/mods/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
+      "sha1": "8b9034d4c43f880b1f1ebdd3943219de0b0bc4c5"
     },
     {
       "path": "mods/simplenicknames-1.21.1-neoforge-0.8.0.jar",
@@ -591,6 +696,16 @@
       "sha1": "fbdcdbef6b93d7b0227e15c41f2ba395efc4c4a7"
     },
     {
+      "path": "mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "url": "https://gugas749server.co.uk/mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "sha1": "07452242e389975e8a88b97066f4bae6a4ebe574"
+    },
+    {
+      "path": "mods/supermartijn642corelib-1.1.24a-neoforge-mc1.21.jar",
+      "url": "https://gugas749server.co.uk/mods/supermartijn642corelib-1.1.24a-neoforge-mc1.21.jar",
+      "sha1": "3295c76a45a1514007082135fd679301c71ab8b5"
+    },
+    {
       "path": "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
       "url": "https://gugas749server.co.uk/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
       "sha1": "2016eed89eac0eb0510d2190c3b0b80bf4346191"
@@ -604,6 +719,11 @@
       "path": "mods/torchmaster-neoforge-1.21.1-21.1.12.jar",
       "url": "https://gugas749server.co.uk/mods/torchmaster-neoforge-1.21.1-21.1.12.jar",
       "sha1": "5e2818dcb9a09124f691a4e91b38cdaa01528a55"
+    },
+    {
+      "path": "mods/trashcans-1.1.1-neoforge-mc1.21.jar",
+      "url": "https://gugas749server.co.uk/mods/trashcans-1.1.1-neoforge-mc1.21.jar",
+      "sha1": "79120eb32cdeb66348a1bceff3972dc2c00b22b5"
     },
     {
       "path": "mods/trashslot-neoforge-1.21.1-21.1.11.jar",
